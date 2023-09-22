@@ -13,8 +13,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@metamask/providers": "^13.0.0",
     "@truffle/hdwallet-provider": "^2.1.15",
     "dotenv": "^16.3.1",
+    "stream-browserify": "^3.0.0",
     "web3": "^4.1.2"
+  },
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1"
   }
 }
